@@ -1,0 +1,19 @@
+body {
+	background-color:#463333 ;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+p {
+	color:#ebd4d4;
+}
+h1 {
+	text-align:center;
+	color:#fff0f0;
+}
+h2 {
+	text-align:center;
+	color:#fff0f0;
+}
+b {
+	text-indent:50px
+}
